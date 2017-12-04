@@ -23,6 +23,7 @@ node ./node_modules/node-addon-api/tools/conversion.js ./
 ```
 
   4. While this script makes conversion easier, it still cannot fully convert
-the module. The next step is to try to build the module and complete the
-remaining conversions necessary to allow it to compile and pass all of the
-module's tests.
+the module. Consider to start with [Setup](setup.md#installation-and-usage) 
+and verify all settings fit your needs. The next step is to try to build the 
+module and complete the remaining conversions necessary to allow it to 
+compile and pass all of the module's tests.
